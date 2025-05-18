@@ -241,7 +241,7 @@
         "valueType": "string",
         "options": [
           {
-            "name": "Red", 
+            "name": "Red",
             "value": "bg-red"
           },
           {
