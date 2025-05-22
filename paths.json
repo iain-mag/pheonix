@@ -5,6 +5,6 @@
     "/content/aem-phe-test/metadata:/metadata.json"
   ],
   "includes": [
-    "/content/aem-phe-test/"
+    "/content/aem-phe-tests/"
   ]
 }
